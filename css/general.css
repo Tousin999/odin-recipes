@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif, serif;
+    background-color: whitesmoke;
+    font-size: 24px;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}

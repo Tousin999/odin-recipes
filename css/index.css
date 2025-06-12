@@ -1,0 +1,15 @@
+h1{
+    color: #f83e05;
+    font-size: 48px;
+    background-color: #fffd9d;
+    border: 2px solid #ff0000;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.card-container{
+    font-size: 24px;
+    border: 2px solid rgb(255, 0, 0);
+    background-color: #fffd9d;
+    color: #f83e05;
+}
